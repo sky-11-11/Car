@@ -39,7 +39,7 @@
 ## <a name="introduction">🤖 Introduction</a>
 
  Hi I'm Gaurav Rawat and i have developed  this project with with Next.js and leveraging its server-side rendering capabilities, the Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
-If you want  any assistance , you can contact with me att gaurawat191@gmail.com
+If you want  any assistance , you can contact with me at gaurawat191@gmail.com
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
