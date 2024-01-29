@@ -1,25 +1,21 @@
 # Car
 <div align="center">
   <br />
-    <a href="https://youtu.be/O5cmLDVTgAs?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/threads/assets/151519281/a9cd1088-968b-4b1d-b21a-f5f97d0c202b" alt="Project Banner">
+    <a href="https://youtu.be/pUNSHPyVryU?feature=shared" target="_blank">
+      <img src="https://github.com/adrianhajdin/project_next13_car_showcase/assets/151519281/2453c186-0ae9-448f-b3c4-077bf910680e" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=6C47FF" alt="clerk" />
-    <img src="https://img.shields.io/badge/-Shadcn_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
-    <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="zod" />
-    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   </div>
 
-  <h3 align="center">A full stack Threads Clone</h3>
+  <h3 align="center">A Car Showcase Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with my detailed tutorial.
     </div>
 </div>
 
@@ -36,75 +32,40 @@
 ## 🚨 Tutorial
 
 
- Follow my  tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+
+ Follow  tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+
+<a href="https://youtu.be/pUNSHPyVryU?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Hi , I'm Gaurav Rawat Build a full stack Threads clone using Next.js 14+ with a redesigned look transformed from a Figma design, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.  
+ Hi i am Gaurav rawat and i have developed  this project with with Next.js and leveraging its server-side rendering capabilities, the Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
+<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
-- MongoDB
-- Shadcn UI
-- TailwindCSS
-- Clerk
-- Webhooks
-- Serverless APIs
-- React Hook Form
-- Zod
 - TypeScript
+- Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Authentication**: Authentication using Clerk for email, password, and social logins (Google and GitHub) with a comprehensive profile management system.
+👉 **Home Page**: Showcases a visually appealing display of cars fetched from a third-party API, providing a captivating introduction to the diverse range of vehicles available.
 
-👉 **Visually Appealing Home Page**: A visually appealing home page showcasing the latest threads for an engaging user experience.
+👉 **Exploration and Filtering**: Explore a wide variety of cars from around the world, utilizing a search and filter system based on criteria such as model, manufacturer, year, fuel type, and make.
 
-👉 **Create Thread Page**: A dedicated page for users to create threads, fostering community engagement
+👉 **Transition to Server-Side Rendering**: A seamless transition from client-side rendering to server-side rendering, enhancing performance and providing a smoother browsing experience.
 
-👉 **Commenting Feature**: A commenting feature to facilitate discussions within threads.
+👉 **Pagination**: For easy navigation through a large dataset of cars, allowing users to explore multiple pages effortlessly.
 
-👉 **Nested Commenting**: Commenting system with nested threads, providing a structured conversation flow.
+👉 **Metadata Optimization and SEO**: Optimize metadata for car listing, enhancing search engine optimization (SEO) and ensuring better visibility on search engine results pages.
 
-👉 **User Search with Pagination**: A user search feature with pagination for easy exploration and discovery of other users.
+👉 **TypeScript Types**: Utilize TypeScript to provide robust typing for enhanced code quality and better development
 
-👉 **Activity Page**: Display notifications on the activity page when someone comments on a user's thread, enhancing user engagement.
-
-👉 **Profile Page**: User profile pages for showcasing information and enabling modification of profile settings.
-
-👉 **Create and Invite to Communities**: Allow users to create new communities and invite others using customizable template emails.
-
-👉 **Community Member Management**: A user-friendly interface to manage community members, allowing role changes and removals.
-
-👉 **Admin-Specific Community Threads**: Enable admins to create threads specifically for their community.
-
-👉 **Community Search with Pagination**: A community search feature with pagination for exploring different communities.
-
-👉 **Community Profiles**: Display community profiles showcasing threads and members for a comprehensive overview.
-
-👉 **Figma Design Implementation**: Transform Figma designs into a fully functional application with pixel-perfect and responsive design.
-
-👉 **Blazing-Fast Performance**: Optimal performance and instantaneous page switching for a seamless user experience.
-
-👉 **Server Side Rendering**: Utilize Next.js with Server Side Rendering for enhanced performance and SEO benefits.
-
-👉 **MongoDB with Complex Schemas**: Handle complex schemas and multiple data populations using MongoDB.
-
-👉 **File Uploads with UploadThing**: File uploads using UploadThing for a seamless media sharing experience.
-
-👉 **Real-Time Events Listening**: Real-time events listening with webhooks to keep users updated.
-
-👉 **Middleware, API Actions, and Authorization**: Utilize middleware, API actions, and authorization for robust application security.
-
-👉 **Next.js Layout Route Groups**: New Next.js layout route groups for efficient routing
-
-👉 **Data Validation with Zod**: Data integrity with data validation using Zod
-
-👉 **Form Management with React Hook Form**: Efficient management of forms with React Hook Form for a streamlined user input experience.
+👉 **Responsive Website Design**: The website is designed to be visually pleasing and responsive, ensuring an optimal user experience across various devices.
 
 and many more, including code architecture and reusability 
 
